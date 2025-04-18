@@ -1,3 +1,4 @@
+![logo](https://github.com/KrunalMahukhaye/Krunal-Mahukhaye/blob/main/Yellow%20Black%20Modern%20Business%20Card.jpg)
 <h1 align="center">Hi 👋, I'm Krunal Mahukhaye</h1>
 <h3 align="center">A passionate Data Engineer from India</h3>
 
